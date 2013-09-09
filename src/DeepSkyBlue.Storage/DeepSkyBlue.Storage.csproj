@@ -62,7 +62,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LongIdGenerator.cs" />
+    <Compile Include="CloudStorageAccountProvider.cs" />
+    <Compile Include="HiLoIdGenerator.cs" />
     <Compile Include="Table\CloudTableExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Table\PocoMapper.cs" />
